@@ -1,74 +1,55 @@
 # Autograder results from STAT 429 Fall 2015
 
-## Problem 1
-
-| Team| MAPE Score|
-|----:|----------:|
-|    1|        Inf|
-|    2|        Inf|
-|    3|        Inf|
-|    4|        Inf|
-|    5|        Inf|
-|    6|        Inf|
-|    7|        Inf|
-|    8|        Inf|
-|    9|        Inf|
-|   10|        Inf|
-|   11|        Inf|
-|   12|        Inf|
-|   13|        Inf|
-
-
 ## Problem 2
 
-| Team| MAPE Score|
-|----:|----------:|
-|    1|        Inf|
-|    2|        Inf|
-|    3|        Inf|
-|    4|        Inf|
-|    5|        Inf|
-|    6|        Inf|
-|    7|        Inf|
-|    8|        Inf|
-|    9|        Inf|
-|   10|        Inf|
-|   11|        Inf|
-|   12|        Inf|
-|   13|        Inf|
+| Position| Team| MAPE Score| Submission| Amount of Submissions|
+|--------:|----:|----------:|----------:|---------------------:|
+|        1|    1|        Inf|        Inf|                   Inf|
+|        2|    2|        Inf|        Inf|                   Inf|
+|        3|    3|        Inf|        Inf|                     1|
+|        4|    4|        Inf|        Inf|                   Inf|
+|        5|    5|        Inf|        Inf|                     1|
+|        6|    6|        Inf|        Inf|                   Inf|
+|        7|    7|        Inf|        Inf|                   Inf|
+|        8|    8|        Inf|        Inf|                   Inf|
+|        9|    9|        Inf|        Inf|                   Inf|
+|       10|   10|        Inf|        Inf|                   Inf|
+|       11|   11|        Inf|        Inf|                   Inf|
+|       12|   12|        Inf|        Inf|                   Inf|
+|       13|   13|        Inf|        Inf|                   Inf|
 
 ## Problem 3
 
-| Team| MAPE Score|
-|----:|----------:|
-|    1|        Inf|
-|    2|        Inf|
-|    3|        Inf|
-|    4|        Inf|
-|    5|        Inf|
-|    6|        Inf|
-|    7|        Inf|
-|    8|        Inf|
-|    9|        Inf|
-|   10|        Inf|
-|   11|        Inf|
-|   12|        Inf|
-|   13|        Inf|
+| Position| Team| MAPE Score| Submission| Amount of Submissions|
+|--------:|----:|----------:|----------:|---------------------:|
+|        1|    1|        Inf|        Inf|                   Inf|
+|        2|    2|        Inf|        Inf|                   Inf|
+|        3|    3|        Inf|        Inf|                   Inf|
+|        4|    4|        Inf|        Inf|                     1|
+|        5|    5|        Inf|        Inf|                   Inf|
+|        6|    6|        Inf|        Inf|                   Inf|
+|        7|    7|        Inf|        Inf|                   Inf|
+|        8|    8|        Inf|        Inf|                   Inf|
+|        9|    9|        Inf|        Inf|                   Inf|
+|       10|   10|        Inf|        Inf|                   Inf|
+|       11|   11|        Inf|        Inf|                   Inf|
+|       12|   12|        Inf|        Inf|                   Inf|
+|       13|   13|        Inf|        Inf|                   Inf|
 
 ## Problem 4
 
-| Team| MAPE Score|
-|----:|----------:|
-|    1|        Inf|
-|    2|        Inf|
-|    3|        Inf|
-|    4|        Inf|
-|    5|        Inf|
-|    6|        Inf|
-|    7|        Inf|
-|    8|        Inf|
-|    9|        Inf|
-|   10|        Inf|
-|   11|        Inf|
-|   12|        Inf|
-|   13|        Inf|
+| Position| Team| MAPE Score| Submission| Amount of Submissions|
+|--------:|----:|----------:|----------:|---------------------:|
+|        1|    1|        Inf|        Inf|                   Inf|
+|        2|    2|        Inf|        Inf|                   Inf|
+|        3|    3|        Inf|        Inf|                   Inf|
+|        4|    4|        Inf|        Inf|                   Inf|
+|        5|    5|        Inf|        Inf|                     1|
+|        6|    6|        Inf|        Inf|                   Inf|
+|        7|    7|        Inf|        Inf|                   Inf|
+|        8|    8|        Inf|        Inf|                   Inf|
+|        9|    9|        Inf|        Inf|                   Inf|
+|       10|   10|        Inf|        Inf|                   Inf|
+|       11|   11|        Inf|        Inf|                   Inf|
+|       12|   12|        Inf|        Inf|                   Inf|
+|       13|   13|        Inf|        Inf|                   Inf|
