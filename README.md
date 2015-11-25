@@ -1,13 +1,6 @@
 Autograder results from STAT 429 Fall 2015
 ==========================================
 
-    ## 
-    ## Attaching package: 'magrittr'
-    ## 
-    ## The following object is masked from 'package:git2r':
-    ## 
-    ##     add
-
 Submission Statistics
 =====================
 
