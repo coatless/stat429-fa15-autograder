@@ -1,55 +1,96 @@
-# Autograder results from STAT 429 Fall 2015
+Autograder results from STAT 429 Fall 2015
+==========================================
 
-## Problem 2
+Submission Statistics
+=====================
 
-| Position| Team| MAPE Score| Submission| Amount of Submissions|
-|--------:|----:|----------:|----------:|---------------------:|
-|        1|    1|        Inf|        Inf|                   Inf|
-|        2|    2|        Inf|        Inf|                   Inf|
-|        3|    3|        Inf|        Inf|                     1|
-|        4|    4|        Inf|        Inf|                   Inf|
-|        5|    5|        Inf|        Inf|                     1|
-|        6|    6|        Inf|        Inf|                   Inf|
-|        7|    7|        Inf|        Inf|                   Inf|
-|        8|    8|        Inf|        Inf|                   Inf|
-|        9|    9|        Inf|        Inf|                   Inf|
-|       10|   10|        Inf|        Inf|                   Inf|
-|       11|   11|        Inf|        Inf|                   Inf|
-|       12|   12|        Inf|        Inf|                   Inf|
-|       13|   13|        Inf|        Inf|                   Inf|
+Overall Submissions
+-------------------
 
-## Problem 3
+| Team ID |  Total Submissions|
+|:--------|------------------:|
+| 1       |                  6|
+| 10      |                  2|
+| 11      |                  4|
+| 12      |                  5|
+| 3       |                  6|
+| 4       |                  8|
+| 5       |                  3|
+| 6       |                 11|
+| 7       |                  2|
+| 8       |                  1|
 
-| Position| Team| MAPE Score| Submission| Amount of Submissions|
-|--------:|----:|----------:|----------:|---------------------:|
-|        1|    1|        Inf|        Inf|                   Inf|
-|        2|    2|        Inf|        Inf|                   Inf|
-|        3|    3|        Inf|        Inf|                   Inf|
-|        4|    4|        Inf|        Inf|                     1|
-|        5|    5|        Inf|        Inf|                   Inf|
-|        6|    6|        Inf|        Inf|                   Inf|
-|        7|    7|        Inf|        Inf|                   Inf|
-|        8|    8|        Inf|        Inf|                   Inf|
-|        9|    9|        Inf|        Inf|                   Inf|
-|       10|   10|        Inf|        Inf|                   Inf|
-|       11|   11|        Inf|        Inf|                   Inf|
-|       12|   12|        Inf|        Inf|                   Inf|
-|       13|   13|        Inf|        Inf|                   Inf|
+Submissions by problem
+----------------------
 
-## Problem 4
+| Team ID | Problem |  Number of Submissions|
+|:--------|:--------|----------------------:|
+| 1       | 2       |                      4|
+| 1       | 3       |                      2|
+| 10      | 2       |                      1|
+| 10      | 3       |                      1|
+| 11      | 3       |                      2|
+| 11      | 4       |                      2|
+| 12      | 2       |                      3|
+| 12      | 4       |                      2|
+| 3       | 2       |                      3|
+| 3       | 3       |                      2|
+| 3       | 4       |                      1|
+| 4       | 2       |                      2|
+| 4       | 3       |                      3|
+| 4       | 4       |                      3|
+| 5       | 3       |                      1|
+| 5       | 4       |                      2|
+| 6       | 2       |                      3|
+| 6       | 3       |                      5|
+| 6       | 4       |                      3|
+| 7       | 4       |                      2|
+| 8       | 3       |                      1|
 
-| Position| Team| MAPE Score| Submission| Amount of Submissions|
-|--------:|----:|----------:|----------:|---------------------:|
-|        1|    1|        Inf|        Inf|                   Inf|
-|        2|    2|        Inf|        Inf|                   Inf|
-|        3|    3|        Inf|        Inf|                   Inf|
-|        4|    4|        Inf|        Inf|                   Inf|
-|        5|    5|        Inf|        Inf|                     1|
-|        6|    6|        Inf|        Inf|                   Inf|
-|        7|    7|        Inf|        Inf|                   Inf|
-|        8|    8|        Inf|        Inf|                   Inf|
-|        9|    9|        Inf|        Inf|                   Inf|
-|       10|   10|        Inf|        Inf|                   Inf|
-|       11|   11|        Inf|        Inf|                   Inf|
-|       12|   12|        Inf|        Inf|                   Inf|
-|       13|   13|        Inf|        Inf|                   Inf|
+Problem State Status
+--------------------
+
+| Assignment Code |  Total|
+|:----------------|------:|
+| ERROR           |     16|
+| RAN             |     24|
+| STORE           |      8|
+
+Problem 2
+=========
+
+|  Position| Team ID |    MAPE| Submission ID    |
+|---------:|:--------|-------:|:-----------------|
+|         1| 12      |  0.1944| 15138444b9c40212 |
+|         2| 6       |  0.2607| 1513fc24f584760a |
+|         3| 4       |  0.2627| 1513b8967db2e1da |
+|         4| 10      |  0.2644| 1513de715f7055f7 |
+|         5| 1       |     Inf| 1513d7cfab07a978 |
+|         6| 3       |     Inf| 1513f914b249c93c |
+
+Problem 3
+=========
+
+|  Position| Team ID |    MAPE| Submission ID    |
+|---------:|:--------|-------:|:-----------------|
+|         1| 4       |  0.0118| 1513cb744367631d |
+|         2| 6       |  0.0162| 1513babfceec3ac2 |
+|         3| 8       |  0.0167| 1513781f7e0d6768 |
+|         4| 11      |  0.0168| 1513ba0acf0cea95 |
+|         5| 1       |  0.0172| 1513d495f9566f55 |
+|         6| 5       |  0.0173| 1513cd5540ca1307 |
+|         7| 10      |     Inf| 1513de887ad01236 |
+|         8| 3       |     Inf| 1513cc7553ca73a4 |
+
+Problem 4
+=========
+
+|  Position| Team ID |    MAPE| Submission ID    |
+|---------:|:--------|-------:|:-----------------|
+|         1| 11      |  0.3390| 1513fc20217d92ba |
+|         2| 4       |  0.3546| 1513b89e3c55ca2e |
+|         3| 6       |  0.3697| 1513b8750f6b0178 |
+|         4| 3       |  0.3889| 1513bf398bc58870 |
+|         5| 7       |  0.4970| 1513f7e220000e06 |
+|         6| 12      |     Inf| 1513d0c51969e8b4 |
+|         7| 5       |     Inf| 1513cd60498f63ac |
