@@ -53,8 +53,8 @@ Problem State Status
 
 | Assignment Code |  Total|
 |:----------------|------:|
-| ERROR           |     22|
-| RAN             |     24|
+| ERROR           |     20|
+| RAN             |     26|
 | STORE           |      9|
 
 Problem 2
@@ -94,5 +94,5 @@ Problem 4
 |         3| 6       |  0.3697| 1513b8750f6b0178 |
 |         4| 3       |  0.3889| 1513bf398bc58870 |
 |         5| 7       |  0.4970| 1513f7e220000e06 |
-|         6| 12      |     Inf| 15140cd5fd2becb6 |
+|         6| 12      |  1.2390| 15140cd5fd2becb6 |
 |         7| 5       |     Inf| 1513cd60498f63ac |
