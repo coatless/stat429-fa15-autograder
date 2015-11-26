@@ -9,7 +9,7 @@ Overall Submissions
 
 | Team ID |  Total Submissions|
 |:--------|------------------:|
-| 1       |                  8|
+| 1       |                  9|
 | 10      |                  4|
 | 11      |                  4|
 | 12      |                  8|
@@ -26,7 +26,7 @@ Submissions by problem
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                 19|
+| 2          |                 20|
 | 3          |                 24|
 | 4          |                 19|
 
@@ -36,7 +36,7 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |     19|
-| RAN             |     33|
+| RAN             |     34|
 | STORE           |      9|
 | TIMEOUT         |      1|
 
@@ -49,7 +49,7 @@ Problem 2
 |         2| 6       |  0.2607| 1513fc24f584760a |                      4|
 |         3| 4       |  0.2627| 1513b8967db2e1da |                      2|
 |         4| 10      |  0.2644| 1513de715f7055f7 |                      2|
-|         5| 1       |     Inf| 151404972353980f |                      5|
+|         5| 1       |  0.2860| 151423488cd1f795 |                      6|
 |         6| 3       |     Inf| 1513f914b249c93c |                      3|
 
 Problem 3
