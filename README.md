@@ -35,8 +35,8 @@ Problem 4
 
 |  Position| Team ID |    MAPE| Submission ID    |  Number of Submissions|
 |---------:|:--------|-------:|:-----------------|----------------------:|
-|         1| 11      |  0.3390| 1513fc20217d92ba |                      2|
-|         2| 12      |  0.3525| 151425229ac3dbfa |                      6|
+|         1| 12      |  0.3188| 15142b12dc321b84 |                      7|
+|         2| 11      |  0.3390| 1513fc20217d92ba |                      2|
 |         3| 4       |  0.3546| 1513b89e3c55ca2e |                      3|
 |         4| 6       |  0.3697| 1513b8750f6b0178 |                      4|
 |         5| 5       |  0.3746| 151415169d4b5f53 |                      3|
@@ -56,7 +56,7 @@ Overall Submissions
 | 1       |                 10|
 | 10      |                  4|
 | 11      |                  4|
-| 12      |                 10|
+| 12      |                 11|
 | 2       |                  1|
 | 3       |                  6|
 | 4       |                 10|
@@ -72,23 +72,23 @@ Submissions by problem
 |:-----------|------------------:|
 | 2          |                 21|
 | 3          |                 25|
-| 4          |                 21|
+| 4          |                 22|
 
 Problem State Status
 --------------------
 
 | Assignment Code |  Total|
 |:----------------|------:|
-| ERROR           |     20|
-| RAN             |     37|
+| ERROR           |     19|
+| RAN             |     38|
 | STORE           |      9|
-| TIMEOUT         |      1|
+| TIMEOUT         |      2|
 
-    * **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
-    * **RUN**: The code is in the Autograder's grading queue.
-    * **ERROR**: The Autograder encountered an error when attempting to run the code.
-    * **RAN**: The code has been evaluated and the results have been sent.
-    * **TIMEOUT**: The runtime of the code has exceeded the allotted amount of processing time given to each submission.
+-   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
+-   **RUN**: The code is in the Autograder's grading queue.
+-   **ERROR**: The Autograder encountered an error when attempting to run the code.
+-   **RAN**: The code has been evaluated and the results have been sent.
+-   **TIMEOUT**: The runtime of the code has exceeded the allotted amount of processing time given to each submission.
 
 Details of the Autograder
 =========================
