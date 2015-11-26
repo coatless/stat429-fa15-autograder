@@ -7,7 +7,7 @@ Problem 2
 |  Position| Team ID |    MAPE| Submission ID    |  Number of Submissions|
 |---------:|:--------|-------:|:-----------------|----------------------:|
 |         1| 12      |  0.1944| 15138444b9c40212 |                      3|
-|         2| 6       |  0.2607| 1513fc24f584760a |                      4|
+|         2| 6       |  0.2607| 1513fc24f584760a |                      5|
 |         3| 4       |  0.2627| 1513b8967db2e1da |                      2|
 |         4| 10      |  0.2644| 1513de715f7055f7 |                      2|
 |         5| 1       |  0.2860| 151423488cd1f795 |                      8|
@@ -61,7 +61,7 @@ Overall Submissions
 | 3       |                  8|
 | 4       |                 10|
 | 5       |                  5|
-| 6       |                 13|
+| 6       |                 14|
 | 7       |                  4|
 | 8       |                  1|
 
@@ -70,7 +70,7 @@ Submissions by problem
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                 22|
+| 2          |                 23|
 | 3          |                 27|
 | 4          |                 26|
 
@@ -80,7 +80,7 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |     21|
-| RAN             |     40|
+| RAN             |     41|
 | STORE           |     10|
 | TIMEOUT         |      4|
 
