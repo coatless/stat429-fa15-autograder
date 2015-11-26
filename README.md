@@ -10,7 +10,7 @@ Problem 2
 |         2| 6       |  0.2607| 1513fc24f584760a |                      4|
 |         3| 4       |  0.2627| 1513b8967db2e1da |                      2|
 |         4| 10      |  0.2644| 1513de715f7055f7 |                      2|
-|         5| 1       |  0.2860| 151423488cd1f795 |                      7|
+|         5| 1       |  0.2860| 151423488cd1f795 |                      8|
 |         6| 3       |     Inf| 1513f914b249c93c |                      3|
 
 Problem 3
@@ -24,7 +24,7 @@ Problem 3
 |         4| 8       |  0.0167| 1513781f7e0d6768 |                      1|
 |         5| 11      |  0.0168| 1513ba0acf0cea95 |                      2|
 |         6| 5       |  0.0173| 1513cd5540ca1307 |                      1|
-|         7| 10      |  0.0209| 151410441542ea3a |                      2|
+|         7| 10      |  0.0209| 151410441542ea3a |                      3|
 |         8| 7       |  0.0531| 151425d9f4eba870 |                      2|
 |         9| 2       |  1.9291| 15141e80e68af1d9 |                      1|
 |        10| 12      |     Inf| 15140d6e2cf96957 |                      1|
@@ -35,7 +35,7 @@ Problem 4
 
 |  Position| Team ID |    MAPE| Submission ID    |  Number of Submissions|
 |---------:|:--------|-------:|:-----------------|----------------------:|
-|         1| 12      |  0.3188| 15142b12dc321b84 |                      8|
+|         1| 12      |  0.3188| 15142b12dc321b84 |                      9|
 |         2| 11      |  0.3390| 1513fc20217d92ba |                      2|
 |         3| 4       |  0.3546| 1513b89e3c55ca2e |                      3|
 |         4| 6       |  0.3697| 1513b8750f6b0178 |                      4|
@@ -53,10 +53,10 @@ Overall Submissions
 
 | Team ID |  Total Submissions|
 |:--------|------------------:|
-| 1       |                 10|
-| 10      |                  4|
+| 1       |                 11|
+| 10      |                  5|
 | 11      |                  4|
-| 12      |                 12|
+| 12      |                 13|
 | 2       |                  1|
 | 3       |                  6|
 | 4       |                 10|
@@ -70,9 +70,9 @@ Submissions by problem
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                 21|
-| 3          |                 25|
-| 4          |                 23|
+| 2          |                 22|
+| 3          |                 26|
+| 4          |                 24|
 
 Problem State Status
 --------------------
@@ -80,9 +80,9 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |     19|
-| RAN             |     39|
+| RAN             |     40|
 | STORE           |      9|
-| TIMEOUT         |      2|
+| TIMEOUT         |      4|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
 -   **RUN**: The code is in the Autograder's grading queue.
