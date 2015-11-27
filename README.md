@@ -7,10 +7,10 @@ Problem 2
 |  Position| Team ID |    MAPE| Submission ID    |  Number of Submissions|
 |---------:|:--------|-------:|:-----------------|----------------------:|
 |         1| 12      |  0.1944| 15138444b9c40212 |                      3|
-|         2| 1       |  0.2539| 151455d6c337ff7a |                      9|
+|         2| 1       |  0.2539| 151455d6c337ff7a |                     10|
 |         3| 6       |  0.2607| 1513fc24f584760a |                      6|
 |         4| 4       |  0.2627| 1513b8967db2e1da |                      2|
-|         5| 10      |  0.2644| 1513de715f7055f7 |                      3|
+|         5| 10      |  0.2644| 1513de715f7055f7 |                      4|
 |         6| 3       |     Inf| 1513f914b249c93c |                      3|
 
 Problem 3
@@ -19,15 +19,15 @@ Problem 3
 |  Position| Team ID |    MAPE| Submission ID    |  Number of Submissions|
 |---------:|:--------|-------:|:-----------------|----------------------:|
 |         1| 4       |  0.0118| 1513cb744367631d |                      5|
-|         2| 10      |  0.0151| 15146201e55c3ac3 |                      4|
+|         2| 10      |  0.0151| 15146201e55c3ac3 |                      5|
 |         3| 1       |  0.0153| 1514217d34a3e900 |                      3|
 |         4| 6       |  0.0162| 1513babfceec3ac2 |                      7|
 |         5| 8       |  0.0167| 1513781f7e0d6768 |                      1|
 |         6| 11      |  0.0168| 1513ba0acf0cea95 |                      2|
-|         7| 5       |  0.0173| 1513cd5540ca1307 |                      4|
-|         8| 7       |  0.0531| 151425d9f4eba870 |                      2|
-|         9| 2       |  1.9291| 15141e80e68af1d9 |                      3|
-|        10| 12      |     Inf| 15140d6e2cf96957 |                      1|
+|         7| 5       |  0.0171| 1514777dd0e88e54 |                      5|
+|         8| 12      |  0.0243| 1514773041579788 |                      2|
+|         9| 7       |  0.0531| 151425d9f4eba870 |                      2|
+|        10| 2       |  1.9291| 15141e80e68af1d9 |                      3|
 |        11| 3       |     Inf| 1513cc7553ca73a4 |                      2|
 
 Problem 4
@@ -42,6 +42,7 @@ Problem 4
 |         5| 5       |  0.3746| 151415169d4b5f53 |                      3|
 |         6| 3       |  0.3889| 1513bf398bc58870 |                      4|
 |         7| 7       |  0.4970| 1513f7e220000e06 |                      2|
+|         8| 8       |     Inf| 151475a5479fe3aa |                      1|
 
 Autograder Submission Statistics
 ================================
@@ -53,36 +54,36 @@ Overall Submissions
 
 | Team ID |  Total Submissions|
 |:--------|------------------:|
-| 1       |                 12|
-| 10      |                  7|
+| 1       |                 13|
+| 10      |                  9|
 | 11      |                  4|
-| 12      |                 13|
+| 12      |                 14|
 | 2       |                  3|
 | 3       |                  9|
 | 4       |                 10|
-| 5       |                  7|
+| 5       |                  8|
 | 6       |                 20|
 | 7       |                  4|
-| 8       |                  1|
+| 8       |                  2|
 
 Submissions by problem
 ----------------------
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                 26|
-| 3          |                 34|
-| 4          |                 30|
+| 2          |                 28|
+| 3          |                 37|
+| 4          |                 31|
 
 Problem State Status
 --------------------
 
 | Assignment Code |  Total|
 |:----------------|------:|
-| ERROR           |     24|
-| RAN             |     49|
+| ERROR           |     25|
+| RAN             |     53|
 | STORE           |     11|
-| TIMEOUT         |      6|
+| TIMEOUT         |      7|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
 -   **RUN**: The code is in the Autograder's grading queue.
