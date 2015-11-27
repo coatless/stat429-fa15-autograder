@@ -11,7 +11,7 @@ Problem 2
 |         3| 6       |  0.2607| 1513fc24f584760a |                      6|
 |         4| 4       |  0.2627| 1513b8967db2e1da |                      2|
 |         5| 10      |  0.2644| 1513de715f7055f7 |                      4|
-|         6| 3       |     Inf| 1513f914b249c93c |                      3|
+|         6| 3       |  0.2788| 15149d8fb504c4cd |                      4|
 
 Problem 3
 ---------
@@ -26,7 +26,7 @@ Problem 3
 |         6| 11      |  0.0168| 1513ba0acf0cea95 |                      2|
 |         7| 5       |  0.0171| 1514777dd0e88e54 |                      5|
 |         8| 12      |  0.0243| 1514773041579788 |                      2|
-|         9| 7       |  0.0531| 151425d9f4eba870 |                      2|
+|         9| 7       |  0.0531| 151425d9f4eba870 |                      3|
 |        10| 2       |  1.9291| 15141e80e68af1d9 |                      3|
 |        11| 3       |     Inf| 1513cc7553ca73a4 |                      2|
 
@@ -59,11 +59,11 @@ Overall Submissions
 | 11      |                  4|
 | 12      |                 14|
 | 2       |                  3|
-| 3       |                  9|
+| 3       |                 10|
 | 4       |                 10|
 | 5       |                  8|
 | 6       |                 20|
-| 7       |                  4|
+| 7       |                  5|
 | 8       |                  2|
 
 Submissions by problem
@@ -71,8 +71,8 @@ Submissions by problem
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                 28|
-| 3          |                 37|
+| 2          |                 29|
+| 3          |                 38|
 | 4          |                 31|
 
 Problem State Status
@@ -81,9 +81,9 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |     25|
-| RAN             |     53|
+| RAN             |     54|
 | STORE           |     11|
-| TIMEOUT         |      7|
+| TIMEOUT         |      8|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
 -   **RUN**: The code is in the Autograder's grading queue.
