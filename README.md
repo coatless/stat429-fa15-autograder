@@ -21,7 +21,7 @@ Problem 3
 |         1| 4       |  0.0118| 1513cb744367631d |                      5|
 |         2| 10      |  0.0151| 15146201e55c3ac3 |                      4|
 |         3| 1       |  0.0153| 1514217d34a3e900 |                      3|
-|         4| 6       |  0.0162| 1513babfceec3ac2 |                      6|
+|         4| 6       |  0.0162| 1513babfceec3ac2 |                      7|
 |         5| 8       |  0.0167| 1513781f7e0d6768 |                      1|
 |         6| 11      |  0.0168| 1513ba0acf0cea95 |                      2|
 |         7| 5       |  0.0173| 1513cd5540ca1307 |                      4|
@@ -61,7 +61,7 @@ Overall Submissions
 | 3       |                  9|
 | 4       |                 10|
 | 5       |                  7|
-| 6       |                 19|
+| 6       |                 20|
 | 7       |                  4|
 | 8       |                  1|
 
@@ -71,7 +71,7 @@ Submissions by problem
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
 | 2          |                 26|
-| 3          |                 33|
+| 3          |                 34|
 | 4          |                 30|
 
 Problem State Status
@@ -80,7 +80,7 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |     24|
-| RAN             |     48|
+| RAN             |     49|
 | STORE           |     11|
 | TIMEOUT         |      6|
 
