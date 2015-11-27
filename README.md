@@ -24,7 +24,7 @@ Problem 3
 |         4| 6       |  0.0162| 1513babfceec3ac2 |                      7|
 |         5| 8       |  0.0167| 1513781f7e0d6768 |                      1|
 |         6| 11      |  0.0168| 1513ba0acf0cea95 |                      2|
-|         7| 5       |  0.0171| 1514777dd0e88e54 |                      5|
+|         7| 5       |  0.0171| 1514777dd0e88e54 |                      7|
 |         8| 12      |  0.0243| 1514773041579788 |                      2|
 |         9| 7       |  0.0530| 1514a25393730caa |                      4|
 |        10| 2       |  1.9291| 15141e80e68af1d9 |                      4|
@@ -39,10 +39,11 @@ Problem 4
 |         2| 11      |  0.3390| 1513fc20217d92ba |                      2|
 |         3| 4       |  0.3546| 1513b89e3c55ca2e |                      3|
 |         4| 6       |  0.3697| 1513b8750f6b0178 |                      7|
-|         5| 5       |  0.3746| 151415169d4b5f53 |                      3|
-|         6| 3       |  0.3889| 1513bf398bc58870 |                      4|
-|         7| 7       |  0.4970| 1513f7e220000e06 |                      2|
-|         8| 8       |     Inf| 151475a5479fe3aa |                      1|
+|         5| 1       |  0.3719| 1514a6b2a5c65a87 |                      1|
+|         6| 5       |  0.3746| 151415169d4b5f53 |                      3|
+|         7| 3       |  0.3889| 1513bf398bc58870 |                      4|
+|         8| 7       |  0.4970| 1513f7e220000e06 |                      2|
+|         9| 8       |     Inf| 151475a5479fe3aa |                      1|
 
 Autograder Submission Statistics
 ================================
@@ -54,14 +55,14 @@ Overall Submissions
 
 | Team ID |  Total Submissions|
 |:--------|------------------:|
-| 1       |                 14|
+| 1       |                 15|
 | 10      |                  9|
 | 11      |                  4|
 | 12      |                 14|
 | 2       |                  4|
 | 3       |                 11|
 | 4       |                 10|
-| 5       |                  8|
+| 5       |                 10|
 | 6       |                 20|
 | 7       |                  6|
 | 8       |                  2|
@@ -72,17 +73,17 @@ Submissions by problem
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
 | 2          |                 31|
-| 3          |                 40|
-| 4          |                 31|
+| 3          |                 42|
+| 4          |                 32|
 
 Problem State Status
 --------------------
 
 | Assignment Code |  Total|
 |:----------------|------:|
-| ERROR           |     26|
-| RAN             |     56|
-| STORE           |     11|
+| ERROR           |     27|
+| RAN             |     57|
+| STORE           |     12|
 | TIMEOUT         |      9|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
