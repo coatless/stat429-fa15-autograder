@@ -24,7 +24,7 @@ Problem 3
 |         4| 6       |  0.0162| 1513babfceec3ac2 |                      6|
 |         5| 8       |  0.0167| 1513781f7e0d6768 |                      1|
 |         6| 11      |  0.0168| 1513ba0acf0cea95 |                      2|
-|         7| 5       |  0.0173| 1513cd5540ca1307 |                      3|
+|         7| 5       |  0.0173| 1513cd5540ca1307 |                      4|
 |         8| 7       |  0.0531| 151425d9f4eba870 |                      2|
 |         9| 2       |  1.9291| 15141e80e68af1d9 |                      3|
 |        10| 12      |     Inf| 15140d6e2cf96957 |                      1|
@@ -60,7 +60,7 @@ Overall Submissions
 | 2       |                  3|
 | 3       |                  9|
 | 4       |                 10|
-| 5       |                  6|
+| 5       |                  7|
 | 6       |                 19|
 | 7       |                  4|
 | 8       |                  1|
@@ -71,7 +71,7 @@ Submissions by problem
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
 | 2          |                 26|
-| 3          |                 32|
+| 3          |                 33|
 | 4          |                 30|
 
 Problem State Status
@@ -82,7 +82,7 @@ Problem State Status
 | ERROR           |     24|
 | RAN             |     48|
 | STORE           |     11|
-| TIMEOUT         |      5|
+| TIMEOUT         |      6|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
 -   **RUN**: The code is in the Autograder's grading queue.
