@@ -8,7 +8,7 @@ Problem 2
 |---------:|:--------|-------:|:-----------------|----------------------:|
 |         1| 12      |  0.1944| 15138444b9c40212 |                      3|
 |         2| 10      |  0.2514| 1514b47111c7249f |                      5|
-|         3| 1       |  0.2539| 151455d6c337ff7a |                     14|
+|         3| 1       |  0.2539| 151455d6c337ff7a |                     15|
 |         4| 6       |  0.2607| 1513fc24f584760a |                      6|
 |         5| 4       |  0.2627| 1513b8967db2e1da |                      2|
 |         6| 3       |  0.2734| 1514a23b9a84f3ab |                      5|
@@ -26,7 +26,7 @@ Problem 3
 |         5| 6       |  0.0162| 1513babfceec3ac2 |                      8|
 |         6| 8       |  0.0167| 1513781f7e0d6768 |                      1|
 |         7| 11      |  0.0168| 1513ba0acf0cea95 |                      6|
-|         8| 12      |  0.0243| 1514773041579788 |                      2|
+|         8| 12      |  0.0224| 1514cd9ca5766f4d |                      3|
 |         9| 7       |  0.0530| 1514a25393730caa |                      4|
 |        10| 2       |  1.9291| 15141e80e68af1d9 |                      4|
 |        11| 3       |     Inf| 1513cc7553ca73a4 |                      2|
@@ -56,10 +56,10 @@ Overall Submissions
 
 | Team ID |  Total Submissions|
 |:--------|------------------:|
-| 1       |                 18|
+| 1       |                 19|
 | 10      |                 11|
 | 11      |                 11|
-| 12      |                 15|
+| 12      |                 16|
 | 2       |                  4|
 | 3       |                 11|
 | 4       |                 10|
@@ -73,8 +73,8 @@ Submissions by problem
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                 36|
-| 3          |                 51|
+| 2          |                 37|
+| 3          |                 52|
 | 4          |                 35|
 
 Problem State Status
@@ -83,9 +83,9 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |     28|
-| RAN             |     68|
+| RAN             |     69|
 | STORE           |     14|
-| TIMEOUT         |     12|
+| TIMEOUT         |     13|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
 -   **RUN**: The code is in the Autograder's grading queue.
