@@ -42,7 +42,7 @@ Problem 4
 
 |  Position| Team ID |    MAPE| Submission ID    |  Number of Submissions|
 |---------:|:--------|-------:|:-----------------|----------------------:|
-|         1| 12      |  0.3004| 1515effcca10d08f |                     37|
+|         1| 12      |  0.3004| 1515effcca10d08f |                     39|
 |         2| 4       |  0.3122| 1515ab73caaa8519 |                      6|
 |         3| 11      |  0.3317| 15159ba3f7bcb49f |                     15|
 |         4| 10      |  0.3451| 1515aa8d2163101e |                      3|
@@ -67,7 +67,7 @@ Overall Submissions
 | 1       |                 40|
 | 10      |                 33|
 | 11      |                 33|
-| 12      |                 49|
+| 12      |                 51|
 | 2       |                 10|
 | 3       |                 24|
 | 4       |                 32|
@@ -84,7 +84,7 @@ Submissions by problem
 |:-----------|------------------:|
 | 2          |                108|
 | 3          |                 96|
-| 4          |                109|
+| 4          |                111|
 
 Problem State Status
 --------------------
@@ -92,8 +92,8 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |     69|
-| RAN             |    196|
-| STORE           |     24|
+| RAN             |    197|
+| STORE           |     25|
 | TIMEOUT         |     24|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
