@@ -9,7 +9,7 @@ Problem 2
 |         1| 12      |  0.1944| 15138444b9c40212 |                      3|
 |         2| 11      |  0.2197| 151545605ad01306 |                      5|
 |         3| 10      |  0.2322| 1515aa8631d56b34 |                     17|
-|         4| 1       |  0.2418| 151565f47f878195 |                     34|
+|         4| 1       |  0.2418| 151565f47f878195 |                     35|
 |         5| 6       |  0.2436| 1515b45c86df876a |                      8|
 |         6| 4       |  0.2539| 1515f40060cb52e2 |                     12|
 |         7| 5       |  0.2607| 1515bcec4b77996c |                     10|
@@ -52,7 +52,7 @@ Problem 4
 |         8| 6       |  0.3697| 15155607f21055cc |                     10|
 |         9| 5       |  0.3746| 151415169d4b5f53 |                      6|
 |        10| 3       |  0.3798| 1515aca51e743585 |                      6|
-|        11| 9       |     Inf| 1515b098b9e8751c |                      2|
+|        11| 9       |     Inf| 1515f968642e819f |                      3|
 
 Autograder Submission Statistics
 ================================
@@ -64,7 +64,7 @@ Overall Submissions
 
 | Team ID |  Total Submissions|
 |:--------|------------------:|
-| 1       |                 41|
+| 1       |                 42|
 | 10      |                 33|
 | 11      |                 33|
 | 12      |                 54|
@@ -75,26 +75,26 @@ Overall Submissions
 | 6       |                 27|
 | 7       |                 27|
 | 8       |                 13|
-| 9       |                  6|
+| 9       |                  7|
 
 Submissions by problem
 ----------------------
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                116|
+| 2          |                117|
 | 3          |                100|
-| 4          |                114|
+| 4          |                115|
 
 Problem State Status
 --------------------
 
 | Assignment Code |  Total|
 |:----------------|------:|
-| ERROR           |     71|
+| ERROR           |     72|
 | RAN             |    210|
 | STORE           |     25|
-| TIMEOUT         |     24|
+| TIMEOUT         |     25|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
 -   **RUN**: The code is in the Autograder's grading queue.
