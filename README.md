@@ -25,7 +25,7 @@ Problem 3
 |  Position| Team ID |    MAPE| Submission ID    |  Number of Submissions|
 |---------:|:--------|-------:|:-----------------|----------------------:|
 |         1| 1       |  0.0073| 151651ebf5b99372 |                      6|
-|         2| 6       |  0.0074| 151647155d43e02b |                     21|
+|         2| 6       |  0.0074| 151647155d43e02b |                     22|
 |         3| 2       |  0.0075| 15168528c4c15ec2 |                     13|
 |         4| 11      |  0.0078| 151610c99ac345ca |                     15|
 |         5| 5       |  0.0086| 151601762e0604c0 |                     12|
@@ -73,7 +73,7 @@ Overall Submissions
 | 3       |                 32|
 | 4       |                 54|
 | 5       |                 38|
-| 6       |                 81|
+| 6       |                 82|
 | 7       |                 60|
 | 8       |                 25|
 | 9       |                 58|
@@ -84,7 +84,7 @@ Submissions by problem
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
 | 2          |                231|
-| 3          |                179|
+| 3          |                180|
 | 4          |                230|
 
 Problem State Status
@@ -95,7 +95,7 @@ Problem State Status
 | ERROR           |    124|
 | RAN             |    423|
 | STORE           |     55|
-| TIMEOUT         |     38|
+| TIMEOUT         |     39|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
 -   **RUN**: The code is in the Autograder's grading queue.
