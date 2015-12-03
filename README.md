@@ -8,7 +8,7 @@ Problem 2
 |---------:|:--------|-------:|:-----------------|----------------------:|
 |         1| 6       |  0.0849| 151669d9056ae270 |                     14|
 |         2| 1       |  0.1882| 1516520310a8179d |                     48|
-|         3| 12      |  0.1944| 15138444b9c40212 |                      8|
+|         3| 12      |  0.1944| 15138444b9c40212 |                      9|
 |         4| 2       |  0.2113| 151662bd4a88a95b |                      9|
 |         5| 4       |  0.2130| 151654139af4f930 |                     15|
 |         6| 11      |  0.2197| 151545605ad01306 |                      6|
@@ -50,7 +50,7 @@ Problem 4
 |         6| 8       |  0.3256| 151658aaf79ae880 |                      9|
 |         7| 11      |  0.3264| 15165a42c8e91df0 |                     22|
 |         8| 1       |  0.3307| 15164a54c5069cba |                      8|
-|         9| 10      |  0.3451| 1516096a9d3bd4b0 |                      9|
+|         9| 10      |  0.3451| 1516096a9d3bd4b0 |                     13|
 |        10| 5       |  0.3467| 1516112adde56fb1 |                     12|
 |        11| 3       |  0.3798| 1515aca51e743585 |                      6|
 |        12| 2       |  0.9434| 151663850d0cb225 |                      5|
@@ -66,9 +66,9 @@ Overall Submissions
 | Team ID |  Total Submissions|
 |:--------|------------------:|
 | 1       |                 62|
-| 10      |                 54|
+| 10      |                 58|
 | 11      |                 43|
-| 12      |                 79|
+| 12      |                 80|
 | 2       |                 26|
 | 3       |                 32|
 | 4       |                 51|
@@ -83,9 +83,9 @@ Submissions by problem
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                205|
+| 2          |                206|
 | 3          |                171|
-| 4          |                210|
+| 4          |                214|
 
 Problem State Status
 --------------------
@@ -93,8 +93,8 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |    118|
-| RAN             |    382|
-| STORE           |     48|
+| RAN             |    384|
+| STORE           |     51|
 | TIMEOUT         |     38|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
