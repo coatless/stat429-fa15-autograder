@@ -12,7 +12,7 @@ Problem 2
 |         4| 2       |  0.2113| 151662bd4a88a95b |                      9|
 |         5| 4       |  0.2130| 151654139af4f930 |                     15|
 |         6| 11      |  0.2197| 151545605ad01306 |                      6|
-|         7| 9       |  0.2298| 15167588575c6e26 |                     26|
+|         7| 9       |  0.2298| 15167588575c6e26 |                     28|
 |         8| 10      |  0.2316| 1516274e1bcecbe3 |                     24|
 |         9| 8       |  0.2370| 15163b5d36202dc6 |                      8|
 |        10| 5       |  0.2424| 15163c20867d24d6 |                     14|
@@ -76,14 +76,14 @@ Overall Submissions
 | 6       |                 72|
 | 7       |                 59|
 | 8       |                 25|
-| 9       |                 52|
+| 9       |                 54|
 
 Submissions by problem
 ----------------------
 
 | Problem ID |  Total Submissions|
 |:-----------|------------------:|
-| 2          |                214|
+| 2          |                216|
 | 3          |                174|
 | 4          |                220|
 
@@ -93,8 +93,8 @@ Problem State Status
 | Assignment Code |  Total|
 |:----------------|------:|
 | ERROR           |    121|
-| RAN             |    395|
-| STORE           |     54|
+| RAN             |    396|
+| STORE           |     55|
 | TIMEOUT         |     38|
 
 -   **STORE**: If multiple submissions for a given problem occur within the collection window, the autograder evalutes the newest and sends the oldest to storage.
